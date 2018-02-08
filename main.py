@@ -1,2 +1,2 @@
 import platform
-print("Hi there!, ", platform.platform())
+print("Hi th  ere!, ", platform.platform())
